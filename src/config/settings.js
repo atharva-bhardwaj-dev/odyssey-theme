@@ -5,5 +5,4 @@ url: `https://your-netlify-site.netlify.app`, // Or your custom domain
 name: `TIF`,
 enableThemeSwitcher: true,
 showPlug: false,
-
 };
