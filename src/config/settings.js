@@ -1,8 +1,9 @@
 export default {
-	title: `TIF | Tech. Finance. Consulting. All in One.`,
-description: `TIF helps businesses scale with tailored tech solutions, smart financial strategies, and expert consulting — all under one roof.`,
-url: `https://your-netlify-site.netlify.app`, // Or your future custom domain, no trailing slash!
-name: `TIF`, // Short brand name for footers, metadata, etc.
+	title: `TIF | Powering the Future of Business with Tech, Finance & Consulting`,
+description: `TIF is your strategic partner for digital transformation — delivering cutting-edge tech, intelligent financial solutions, and business consulting that drives real growth.`,
+url: `https://your-netlify-site.netlify.app`, // Or your custom domain
+name: `TIF`,
 enableThemeSwitcher: true,
-showPlug: false, // Optional: Turn off "powered by" if you want
+showPlug: false,
+
 };
